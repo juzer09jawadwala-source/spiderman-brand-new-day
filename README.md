@@ -2,7 +2,7 @@
 
 Welcome to the official promotional website for **Spider-Man: Brand New Day** — swinging into cinemas on **July 31, 2026**! 🕸️
 
-![Spider-Man](/public/spider-logo.png)
+![Spider-Man](public/spider-logo.png)
 
 ## 🎬 About the Project
 
